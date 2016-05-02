@@ -1,0 +1,8 @@
+[26-Mar-2016 21:40:26 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/srikhs/public_html/dbms/index.php on line 206
+[26-Mar-2016 21:40:27 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/srikhs/public_html/dbms/index.php on line 206
+[26-Mar-2016 21:40:29 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/srikhs/public_html/dbms/index.php on line 206
+[26-Mar-2016 21:43:31 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on a non-object in /home/srikhs/public_html/dbms/index.php on line 207
+[23-Apr-2016 19:04:33 UTC] PHP Fatal error:  Call to undefined function intialize() in /home/srikhs/public_html/dbms/getdetails.php on line 333
+[23-Apr-2016 19:04:58 UTC] PHP Fatal error:  Call to undefined function initialize() in /home/srikhs/public_html/dbms/getdetails.php on line 333
+[23-Apr-2016 19:05:25 UTC] PHP Fatal error:  Call to undefined function initialize() in /home/srikhs/public_html/dbms/getdetails.php on line 144
+[23-Apr-2016 19:05:28 UTC] PHP Fatal error:  Call to undefined function initialize() in /home/srikhs/public_html/dbms/getdetails.php on line 144
