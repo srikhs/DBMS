@@ -1,10 +1,18 @@
 # DBMS
 The source code for the DBMS CS581 Project.
-9. Readme - Source code - Running Instructions:
-The application is hosted at http://saisrikanth.com/dbms/dir2.html [With Destination]
+
+Running Instructions:
+
+The application is hosted at 
+
+http://saisrikanth.com/dbms/dir2.html [With Destination]
+
 http://saisrikanth.com/dbms/dir.html [Without Destination]
+
 http://saisrikanth.com/dbms/dir3.html [Predictive Model]
+
 http://saisrikanth.com/dbms/dir4.html [Uninformed Search]
+
 Github Link : https://github.com/srikhs/DBMS
 
 The steps to run the application are:
