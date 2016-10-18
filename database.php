@@ -2,9 +2,7 @@
 ini_set( "display_errors", 0);
 ob_start();
 $host="localhost"; // Host name 
-$username="srikhs1"; // Mysql username 
-$password="S!rikhs1234"; // Mysql password 
-$db_name="DBMSDB"; // Database name 
+ 
  // Table name 
 
 // Connect to server and select databse.
